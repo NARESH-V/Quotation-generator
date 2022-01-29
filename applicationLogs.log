@@ -1,0 +1,177 @@
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product not found
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product not found
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product not found04
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product not found05
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product not found066
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product Not Found-  03
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 044
+[main] DEBUG shopping.Lets_Shop.App  - input : 023
+[main] DEBUG shopping.Lets_Shop.App  - input : 012
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product Not Found-  33
+[main] DEBUG shopping.Lets_Shop.App  - input : 033
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 90
+[main] DEBUG shopping.Lets_Shop.App  - user input : 100
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - user input : 60
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 044
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 033
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 49
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - user input : 30
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 033
+[main] DEBUG shopping.Lets_Shop.App  - input : 044
+[main] DEBUG shopping.Lets_Shop.App  - input : 023
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 100
+[main] DEBUG shopping.Lets_Shop.App  - user input : 60
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - user input : 50
+[main] DEBUG shopping.Lets_Shop.App  - user input : 60
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 033
+[main] DEBUG shopping.Lets_Shop.App  - input : 044
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 034
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 022
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 034
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 044
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 022
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 023
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 022
+[main] DEBUG shopping.Lets_Shop.App  - input : 023
+[main] DEBUG shopping.Lets_Shop.App  - input : 044
+[main] DEBUG shopping.Lets_Shop.App  - input : 045
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 033
+[main] DEBUG shopping.Lets_Shop.App  - input : 022
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 023
+[main] DEBUG shopping.Lets_Shop.App  - input : 043
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 021
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 100
+[main] DEBUG shopping.Lets_Shop.App  - user input : 40
+[main] DEBUG shopping.Lets_Shop.App  - user input : 50
+[main] DEBUG shopping.Lets_Shop.App  - user input : 100
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - user input : 50
+[main] DEBUG shopping.Lets_Shop.App  - user input : 40
+[main] DEBUG shopping.Lets_Shop.App  - user input : 20
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 023
+[main] DEBUG shopping.Lets_Shop.App  - input : 045
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: Product Not Found-  066
+[main] DEBUG shopping.Lets_Shop.App  - input : 065
+[main] DEBUG shopping.Lets_Shop.App  - input : 024
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 20
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - user input : 20
+[main] DEBUG shopping.Lets_Shop.App  - user input : 10
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - need for quotation
+[main] DEBUG shopping.Lets_Shop.App  - user input - YES
+[main] DEBUG shopping.Lets_Shop.App  - Quotation printed
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 011
+[main] DEBUG shopping.Lets_Shop.App  - input : 055
+[main] DEBUG shopping.Lets_Shop.App  - input : 064
+[main] DEBUG shopping.Lets_Shop.App  - input : 051
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 5
+[main] DEBUG shopping.Lets_Shop.App  - user input : 3
+[main] DEBUG shopping.Lets_Shop.App  - user input : 4
+[main] DEBUG shopping.Lets_Shop.App  - user input : 6
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - need for quotation
+[main] DEBUG shopping.Lets_Shop.App  - user input - YES
+[main] DEBUG shopping.Lets_Shop.App  - Quotation printed
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 065
+[main] DEBUG shopping.Lets_Shop.App  - input : 045
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 49
+[main] ERROR shopping.Lets_Shop.App  - shopping.Lets_Shop.invalidProductException: please check the availability of units- less availability of units 
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - need for quotation
+[main] DEBUG shopping.Lets_Shop.App  - user input - NO
+[main] DEBUG shopping.Lets_Shop.App  - List of products Created
+[main] DEBUG shopping.Lets_Shop.App  - Getting user inputs-product number :
+[main] DEBUG shopping.Lets_Shop.App  - input : 065
+[main] DEBUG shopping.Lets_Shop.App  - input : 064
+[main] DEBUG shopping.Lets_Shop.App  - displaying product details
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - required units
+[main] DEBUG shopping.Lets_Shop.App  - user input : 4
+[main] DEBUG shopping.Lets_Shop.App  - user input : 6
+[main] DEBUG shopping.Lets_Shop.App  - getting user input - need for quotation
+[main] DEBUG shopping.Lets_Shop.App  - user input - YES
+[main] DEBUG shopping.Lets_Shop.App  - Quotation printed
