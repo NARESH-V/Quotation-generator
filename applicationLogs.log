@@ -175,3 +175,6 @@
 [main] DEBUG shopping.Lets_Shop.App  - getting user input - need for quotation
 [main] DEBUG shopping.Lets_Shop.App  - user input - YES
 [main] DEBUG shopping.Lets_Shop.App  - Quotation printed
+[main] DEBUG shopping.shop.App  - List of products Created
+[main] DEBUG shopping.shop.App  - Getting user inputs-product number :
+[main] ERROR shopping.shop.App  - shopping.shop.invalidProductException: Product Not Found-  

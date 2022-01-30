@@ -1,5 +1,9 @@
-package shopping.shop;
+/**
+ *  @author NARESH V
+ *  
+ */
 
+package shopping.shop;
 
 import java.io.PrintStream;
 import java.io.FileDescriptor;
